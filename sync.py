@@ -2083,7 +2083,7 @@ class IntervalsSync:
         
         # Find cycling sport info
         cycling_info = None
-         for sport in (sport_info or []):
+        for sport in sport_info:
             if sport.get("type") == "Ride":
                 cycling_info = sport
                 break
