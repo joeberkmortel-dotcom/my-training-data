@@ -1,0 +1,614 @@
+{
+  "generated_at": "2026-05-11T10:04:48.631472",
+  "version": "3.112",
+  "script_hash": "4a54629923dd",
+  "scan_hours": 72,
+  "retention_days": 14,
+  "activities": [
+    {
+      "activity_id": "i147175117",
+      "date": "2026-05-10",
+      "type": "Run",
+      "name": "Helmond Hardlopen",
+      "interval_summary": [
+        "6x 7m9s 130bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "429s@130bpm78rpm",
+          "duration_secs": 426,
+          "avg_hr": 130,
+          "max_hr": 138,
+          "avg_cadence": 78.593895,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "429s@130bpm78rpm",
+          "duration_secs": 426,
+          "avg_hr": 131,
+          "max_hr": 135,
+          "avg_cadence": 77.786385,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "429s@130bpm78rpm",
+          "duration_secs": 421,
+          "avg_hr": 131,
+          "max_hr": 136,
+          "avg_cadence": 78.10926,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "429s@130bpm78rpm",
+          "duration_secs": 424,
+          "avg_hr": 130,
+          "max_hr": 134,
+          "avg_cadence": 78.40094,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "429s@130bpm78rpm",
+          "duration_secs": 441,
+          "avg_hr": 129,
+          "max_hr": 136,
+          "avg_cadence": 78.06349,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "429s@130bpm78rpm",
+          "duration_secs": 435,
+          "avg_hr": 128,
+          "max_hr": 133,
+          "avg_cadence": 78.09425,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i147175129",
+      "date": "2026-05-09",
+      "type": "Ride",
+      "name": "Helmond Fietsen",
+      "interval_summary": [
+        "1x 12m55s 136bpm",
+        "9x 9m36s 161bpm",
+        "2x 20m20s 157bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "775s@136bpm",
+          "duration_secs": 775,
+          "avg_hr": 136,
+          "max_hr": 156,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 574,
+          "avg_hr": 153,
+          "max_hr": 159,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1220s@157bpm",
+          "duration_secs": 1192,
+          "avg_hr": 152,
+          "max_hr": 167,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 604,
+          "avg_hr": 153,
+          "max_hr": 172,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 539,
+          "avg_hr": 158,
+          "max_hr": 172,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 529,
+          "avg_hr": 162,
+          "max_hr": 172,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "1220s@157bpm",
+          "duration_secs": 1248,
+          "avg_hr": 161,
+          "max_hr": 191,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 554,
+          "avg_hr": 162,
+          "max_hr": 179,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 643,
+          "avg_hr": 160,
+          "max_hr": 175,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 561,
+          "avg_hr": 165,
+          "max_hr": 180,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 616,
+          "avg_hr": 166,
+          "max_hr": 178,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "576s@161bpm",
+          "duration_secs": 563,
+          "avg_hr": 168,
+          "max_hr": 175,
+          "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i147175133",
+      "date": "2026-05-08",
+      "type": "Run",
+      "name": "Helmond Hardlopen",
+      "interval_summary": [
+        "6x 6m58s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "418s@136bpm78rpm",
+          "duration_secs": 423,
+          "avg_hr": 131,
+          "max_hr": 138,
+          "avg_cadence": 77.650116,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 137,
+          "max_hr": 137,
+          "avg_cadence": 79.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm78rpm",
+          "duration_secs": 421,
+          "avg_hr": 134,
+          "max_hr": 140,
+          "avg_cadence": 78.128265,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm78rpm",
+          "duration_secs": 418,
+          "avg_hr": 135,
+          "max_hr": 141,
+          "avg_cadence": 77.861244,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm78rpm",
+          "duration_secs": 416,
+          "avg_hr": 136,
+          "max_hr": 139,
+          "avg_cadence": 78.04808,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm78rpm",
+          "duration_secs": 420,
+          "avg_hr": 139,
+          "max_hr": 143,
+          "avg_cadence": 78.00714,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "418s@136bpm78rpm",
+          "duration_secs": 409,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 77.81174,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 139,
+          "max_hr": 139,
+          "avg_cadence": 78.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i147175146",
+      "date": "2026-05-07",
+      "type": "Ride",
+      "name": "Helmond Fietsen",
+      "interval_summary": [
+        "6x 11m45s 136bpm",
+        "1x 6m44s 127bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "705s@136bpm",
+          "duration_secs": 737,
+          "avg_hr": 133,
+          "max_hr": 141,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "705s@136bpm",
+          "duration_secs": 677,
+          "avg_hr": 137,
+          "max_hr": 146,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "705s@136bpm",
+          "duration_secs": 696,
+          "avg_hr": 136,
+          "max_hr": 148,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "705s@136bpm",
+          "duration_secs": 687,
+          "avg_hr": 136,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "705s@136bpm",
+          "duration_secs": 666,
+          "avg_hr": 139,
+          "max_hr": 150,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "705s@136bpm",
+          "duration_secs": 765,
+          "avg_hr": 134,
+          "max_hr": 144,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "404s@127bpm",
+          "duration_secs": 404,
+          "avg_hr": 127,
+          "max_hr": 142,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i147175152",
+      "date": "2026-05-07",
+      "type": "Swim",
+      "name": "Zwembad",
+      "interval_summary": [
+        "1x 200m 128bpm",
+        "1x 25m 105bpm",
+        "1x 50m 137bpm",
+        "3x 50m 134bpm",
+        "1x 150m 140bpm",
+        "1x 200m 143bpm",
+        "1x 300m 145bpm",
+        "1x 100m 151bpm",
+        "1x 25m 130bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "367s@128bpm21rpm",
+          "duration_secs": 367,
+          "avg_hr": 128,
+          "max_hr": 142,
+          "avg_cadence": 21.0218,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 126,
+          "avg_hr": 111,
+          "max_hr": 128,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "28s@105bpm11rpm",
+          "duration_secs": 28,
+          "avg_hr": 105,
+          "max_hr": 114,
+          "avg_cadence": 11.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "48s@137bpm30rpm",
+          "duration_secs": 48,
+          "avg_hr": 137,
+          "max_hr": 146,
+          "avg_cadence": 29.958334,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 45,
+          "avg_hr": 131,
+          "max_hr": 143,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "64s@134bpm25rpm",
+          "duration_secs": 62,
+          "avg_hr": 131,
+          "max_hr": 137,
+          "avg_cadence": 24.774193,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 69,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "64s@134bpm25rpm",
+          "duration_secs": 67,
+          "avg_hr": 135,
+          "max_hr": 143,
+          "avg_cadence": 25.671642,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 47,
+          "avg_hr": 137,
+          "max_hr": 143,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "64s@134bpm25rpm",
+          "duration_secs": 63,
+          "avg_hr": 137,
+          "max_hr": 146,
+          "avg_cadence": 25.74603,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 78,
+          "avg_hr": 128,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "259s@140bpm23rpm",
+          "duration_secs": 259,
+          "avg_hr": 140,
+          "max_hr": 149,
+          "avg_cadence": 23.258688,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 110,
+          "avg_hr": 123,
+          "max_hr": 146,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "347s@143bpm22rpm",
+          "duration_secs": 347,
+          "avg_hr": 143,
+          "max_hr": 153,
+          "avg_cadence": 22.0634,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 57,
+          "avg_hr": 127,
+          "max_hr": 144,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "513s@145bpm24rpm",
+          "duration_secs": 513,
+          "avg_hr": 145,
+          "max_hr": 155,
+          "avg_cadence": 23.576998,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 22,
+          "avg_hr": 148,
+          "max_hr": 154,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "174s@151bpm32rpm",
+          "duration_secs": 174,
+          "avg_hr": 151,
+          "max_hr": 159,
+          "avg_cadence": 32.367817,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 32,
+          "avg_hr": 144,
+          "max_hr": 155,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "37s@130bpm29rpm",
+          "duration_secs": 37,
+          "avg_hr": 130,
+          "max_hr": 137,
+          "avg_cadence": 29.18919,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 8,
+          "avg_hr": 137,
+          "max_hr": 137,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i147175157",
+      "date": "2026-05-05",
+      "type": "Ride",
+      "name": "Helmond Fietsen",
+      "interval_summary": [
+        "1x 10m57s 134bpm",
+        "7x 10m4s 158bpm",
+        "1x 12m25s 156bpm",
+        "1x 1s 183bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "657s@134bpm",
+          "duration_secs": 657,
+          "avg_hr": 134,
+          "max_hr": 161,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "604s@158bpm",
+          "duration_secs": 608,
+          "avg_hr": 155,
+          "max_hr": 163,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "604s@158bpm",
+          "duration_secs": 562,
+          "avg_hr": 160,
+          "max_hr": 182,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "604s@158bpm",
+          "duration_secs": 617,
+          "avg_hr": 153,
+          "max_hr": 167,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "604s@158bpm",
+          "duration_secs": 584,
+          "avg_hr": 156,
+          "max_hr": 169,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "604s@158bpm",
+          "duration_secs": 641,
+          "avg_hr": 158,
+          "max_hr": 178,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "745s@156bpm",
+          "duration_secs": 745,
+          "avg_hr": 156,
+          "max_hr": 177,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "604s@158bpm",
+          "duration_secs": 610,
+          "avg_hr": 160,
+          "max_hr": 181,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "604s@158bpm",
+          "duration_secs": 603,
+          "avg_hr": 163,
+          "max_hr": 182,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "1s@183bpm",
+          "duration_secs": 1,
+          "avg_hr": 183,
+          "max_hr": 183,
+          "zone": 6
+        }
+      ]
+    }
+  ]
+}
