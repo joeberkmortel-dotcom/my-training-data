@@ -1,77 +1,10 @@
 {
-  "generated_at": "2026-05-28T21:17:15.692346",
+  "generated_at": "2026-05-29T10:56:33.136489",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i148242378",
-      "date": "2026-05-14",
-      "type": "Ride",
-      "name": "Helmond - Outdoor cycling 75 min",
-      "interval_summary": [
-        "7x 10m43s 136bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "643s@136bpm",
-          "duration_secs": 669,
-          "avg_hr": 128,
-          "max_hr": 147,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "643s@136bpm",
-          "duration_secs": 652,
-          "avg_hr": 137,
-          "max_hr": 146,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "643s@136bpm",
-          "duration_secs": 624,
-          "avg_hr": 137,
-          "max_hr": 146,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "643s@136bpm",
-          "duration_secs": 653,
-          "avg_hr": 138,
-          "max_hr": 147,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "643s@136bpm",
-          "duration_secs": 636,
-          "avg_hr": 141,
-          "max_hr": 151,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "643s@136bpm",
-          "duration_secs": 673,
-          "avg_hr": 137,
-          "max_hr": 146,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "643s@136bpm",
-          "duration_secs": 594,
-          "avg_hr": 136,
-          "max_hr": 147,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i148368261",
       "date": "2026-05-15",
