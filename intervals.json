@@ -1,30 +1,10 @@
 {
-  "generated_at": "2026-05-29T19:55:08.966372",
+  "generated_at": "2026-05-30T00:16:02.238990",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i148368261",
-      "date": "2026-05-15",
-      "type": "Swim",
-      "name": "Zwemmen 1400\u20131600m",
-      "interval_summary": [
-        "1x 1175m 135bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "2261s@135bpm19rpm",
-          "duration_secs": 2261,
-          "avg_hr": 135,
-          "max_hr": 159,
-          "avg_cadence": 18.619196,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i148843952",
       "date": "2026-05-16",
