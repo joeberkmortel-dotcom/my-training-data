@@ -116,10 +116,6 @@ jobs:
               git add history.json
               echo "✅ Staged history.json"
             fi
-            if [ -f latest.json ]; then
-              git add latest.json
-              echo "✅ Staged latest.json"
-            fi
             if [ -f intervals.json ]; then
               git add intervals.json
               echo "✅ Staged intervals.json"
