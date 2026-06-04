@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T19:36:49.915773",
+  "generated_at": "2026-06-04T23:53:25.629551",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -1487,6 +1487,32 @@
           "avg_hr": 136,
           "max_hr": 145,
           "avg_cadence": 19.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i154391290",
+      "date": "2026-06-04",
+      "type": "Ride",
+      "name": "Helmond Fietsen",
+      "interval_summary": [
+        "1x 2s 106bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2s@106bpm",
+          "duration_secs": 2,
+          "avg_hr": 106,
+          "max_hr": 107,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5525,
+          "avg_hr": 139,
+          "max_hr": 154,
           "zone": 1
         }
       ]
