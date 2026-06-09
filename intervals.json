@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T10:42:57.755394",
+  "generated_at": "2026-06-09T18:31:05.867691",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -874,6 +874,83 @@
           "avg_hr": 139,
           "max_hr": 154,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i155825813",
+      "date": "2026-06-09",
+      "type": "Ride",
+      "name": "Helmond Wegwielrennen",
+      "interval_summary": [
+        "6x 10m23s 142bpm",
+        "1x 12m56s 133bpm",
+        "1x 7m34s 146bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "623s@142bpm",
+          "duration_secs": 646,
+          "avg_hr": 131,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "623s@142bpm",
+          "duration_secs": 648,
+          "avg_hr": 138,
+          "max_hr": 153,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "623s@142bpm",
+          "duration_secs": 630,
+          "avg_hr": 137,
+          "max_hr": 145,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "776s@133bpm",
+          "duration_secs": 776,
+          "avg_hr": 133,
+          "max_hr": 139,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "623s@142bpm",
+          "duration_secs": 661,
+          "avg_hr": 138,
+          "max_hr": 160,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "623s@142bpm",
+          "duration_secs": 590,
+          "avg_hr": 150,
+          "max_hr": 165,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "623s@142bpm",
+          "duration_secs": 563,
+          "avg_hr": 158,
+          "max_hr": 168,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "454s@146bpm",
+          "duration_secs": 454,
+          "avg_hr": 146,
+          "max_hr": 159,
+          "zone": 2
         }
       ]
     }
