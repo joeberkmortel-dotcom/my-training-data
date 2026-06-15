@@ -1,84 +1,10 @@
 {
-  "generated_at": "2026-06-14T22:53:49.804919",
+  "generated_at": "2026-06-15T00:18:25.669289",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i152982271",
-      "date": "2026-05-31",
-      "type": "Run",
-      "name": "Helmond Hardlopen",
-      "interval_summary": [
-        "7x 7m4s 131bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "424s@131bpm79rpm",
-          "duration_secs": 449,
-          "avg_hr": 127,
-          "max_hr": 136,
-          "avg_cadence": 77.55399,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "424s@131bpm79rpm",
-          "duration_secs": 426,
-          "avg_hr": 130,
-          "max_hr": 136,
-          "avg_cadence": 78.43192,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "424s@131bpm79rpm",
-          "duration_secs": 428,
-          "avg_hr": 132,
-          "max_hr": 137,
-          "avg_cadence": 79.01168,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "424s@131bpm79rpm",
-          "duration_secs": 424,
-          "avg_hr": 130,
-          "max_hr": 135,
-          "avg_cadence": 78.620285,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "424s@131bpm79rpm",
-          "duration_secs": 426,
-          "avg_hr": 131,
-          "max_hr": 136,
-          "avg_cadence": 78.976524,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "424s@131bpm79rpm",
-          "duration_secs": 417,
-          "avg_hr": 130,
-          "max_hr": 134,
-          "avg_cadence": 79.26379,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "424s@131bpm79rpm",
-          "duration_secs": 401,
-          "avg_hr": 134,
-          "max_hr": 140,
-          "avg_cadence": 79.26683,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i153258634",
       "date": "2026-06-01",
