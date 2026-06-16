@@ -138,7 +138,9 @@ jobs:
            git commit --allow-empty -m "Sync training data - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
            git push
            echo "✅ Training data committed and pushed"
-
+          else
+            echo "⚠️ Skipping archive - no latest.json to archive"
+          fi
 
       - name: Update README with last sync time
         if: success()
