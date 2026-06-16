@@ -134,17 +134,11 @@ jobs:
             # Now pull - autostash will safely stash staged changes
             git pull --rebase --autostash origin main
 
-            # Only commit if there are changes
-            if ! git diff --staged --quiet; then
-              git commit -m "Archive training data + FTP history - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
-              git push
-              echo "✅ Archive and FTP history committed and pushed"
-            else
-              echo "⏭️  No new archive to commit"
-            fi
-          else
-            echo "⚠️ Skipping archive - no latest.json to archive"
-          fi
+           # Always commit to ensure fresh data reaches repo
+           git commit --allow-empty -m "Sync training data - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+           git push
+           echo "✅ Training data committed and pushed"
+
 
       - name: Update README with last sync time
         if: success()
