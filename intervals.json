@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T05:28:37.420875",
+  "generated_at": "2026-06-19T10:03:44.109456",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -1220,6 +1220,84 @@
           "avg_hr": 147,
           "max_hr": 147,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i158537184",
+      "date": "2026-06-19",
+      "type": "Swim",
+      "name": "Zwembad",
+      "interval_summary": [
+        "1x 100m 120bpm",
+        "1x 500m 139bpm",
+        "1x 450m 158bpm",
+        "1x 350m 166bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "160s@120bpm21rpm",
+          "duration_secs": 160,
+          "avg_hr": 120,
+          "max_hr": 136,
+          "avg_cadence": 20.75,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 46,
+          "avg_hr": 125,
+          "max_hr": 131,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "753s@139bpm21rpm",
+          "duration_secs": 753,
+          "avg_hr": 139,
+          "max_hr": 152,
+          "avg_cadence": 20.715803,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 151,
+          "avg_hr": 124,
+          "max_hr": 150,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "697s@158bpm21rpm",
+          "duration_secs": 697,
+          "avg_hr": 158,
+          "max_hr": 179,
+          "avg_cadence": 20.543758,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 173,
+          "avg_hr": 129,
+          "max_hr": 167,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "528s@166bpm21rpm",
+          "duration_secs": 528,
+          "avg_hr": 166,
+          "max_hr": 187,
+          "avg_cadence": 21.19697,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 18,
+          "avg_hr": 165,
+          "max_hr": 169,
+          "zone": 3
         }
       ]
     }
