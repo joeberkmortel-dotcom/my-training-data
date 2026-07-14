@@ -1,86 +1,10 @@
 {
-  "generated_at": "2026-07-13T23:15:12.223349",
+  "generated_at": "2026-07-14T00:10:58.062040",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i161131961",
-      "date": "2026-06-29",
-      "type": "Swim",
-      "name": "Zwembad",
-      "interval_summary": [
-        "3x 500m 141bpm",
-        "1x 400m 140bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "809s@141bpm19rpm",
-          "duration_secs": 766,
-          "avg_hr": 137,
-          "max_hr": 155,
-          "avg_cadence": 19.879896,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 128,
-          "avg_hr": 124,
-          "max_hr": 153,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "809s@141bpm19rpm",
-          "duration_secs": 807,
-          "avg_hr": 145,
-          "max_hr": 159,
-          "avg_cadence": 18.874846,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 148,
-          "avg_hr": 126,
-          "max_hr": 148,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "809s@141bpm19rpm",
-          "duration_secs": 853,
-          "avg_hr": 141,
-          "max_hr": 150,
-          "avg_cadence": 19.325909,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 21,
-          "avg_hr": 138,
-          "max_hr": 140,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "688s@140bpm21rpm",
-          "duration_secs": 688,
-          "avg_hr": 140,
-          "max_hr": 149,
-          "avg_cadence": 20.550873,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 13,
-          "avg_hr": 137,
-          "max_hr": 140,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i161405795",
       "date": "2026-06-30",
