@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:31:43.345457",
+  "generated_at": "2026-07-20T10:31:24.839754",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -695,6 +695,80 @@
           "duration_secs": 1808,
           "avg_hr": 128,
           "max_hr": 138,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i167369131",
+      "date": "2026-07-19",
+      "type": "Run",
+      "name": "Lisbon Hardlopen",
+      "interval_summary": [
+        "1x 6m43s 127bpm",
+        "3x 7m49s 136bpm",
+        "1x 6m43s 143bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "403s@127bpm78rpm",
+          "duration_secs": 403,
+          "avg_hr": 127,
+          "max_hr": 145,
+          "avg_cadence": 77.99752,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 146,
+          "max_hr": 146,
+          "avg_cadence": 76.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "469s@136bpm78rpm",
+          "duration_secs": 460,
+          "avg_hr": 138,
+          "max_hr": 150,
+          "avg_cadence": 78.10539,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "469s@136bpm78rpm",
+          "duration_secs": 472,
+          "avg_hr": 131,
+          "max_hr": 153,
+          "avg_cadence": 77.66829,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "403s@143bpm80rpm",
+          "duration_secs": 403,
+          "avg_hr": 143,
+          "max_hr": 150,
+          "avg_cadence": 79.81313,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "469s@136bpm78rpm",
+          "duration_secs": 474,
+          "avg_hr": 138,
+          "max_hr": 153,
+          "avg_cadence": 78.113304,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 141,
+          "max_hr": 141,
+          "avg_cadence": 83.0,
           "zone": 1
         }
       ]
