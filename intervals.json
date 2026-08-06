@@ -1,75 +1,10 @@
 {
-  "generated_at": "2026-08-05T23:41:37.571935",
+  "generated_at": "2026-08-06T01:07:21.572367",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i168448367",
-      "date": "2026-07-22",
-      "type": "Run",
-      "name": "Helmond Hardlopen",
-      "interval_summary": [
-        "4x 7m13s 131bpm",
-        "1x 15m41s 129bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "433s@131bpm79rpm",
-          "duration_secs": 434,
-          "avg_hr": 130,
-          "max_hr": 137,
-          "avg_cadence": 78.76037,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "433s@131bpm79rpm",
-          "duration_secs": 445,
-          "avg_hr": 130,
-          "max_hr": 136,
-          "avg_cadence": 79.56404,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "941s@129bpm79rpm",
-          "duration_secs": 941,
-          "avg_hr": 129,
-          "max_hr": 135,
-          "avg_cadence": 78.96065,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "433s@131bpm79rpm",
-          "duration_secs": 426,
-          "avg_hr": 130,
-          "max_hr": 136,
-          "avg_cadence": 79.131454,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "433s@131bpm79rpm",
-          "duration_secs": 426,
-          "avg_hr": 134,
-          "max_hr": 140,
-          "avg_cadence": 79.03287,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 136,
-          "max_hr": 136,
-          "avg_cadence": 80.0,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i168711315",
       "date": "2026-07-24",
