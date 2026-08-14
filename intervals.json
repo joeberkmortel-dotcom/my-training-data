@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:34:32.897644",
+  "generated_at": "2026-08-14T17:39:43.601101",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -2185,6 +2185,154 @@
           "duration_secs": 22,
           "avg_hr": 144,
           "max_hr": 151,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i175848394",
+      "date": "2026-08-14",
+      "type": "Run",
+      "name": "Helmond Hardlopen",
+      "interval_summary": [
+        "13x 6m36s 139bpm",
+        "1x 8m52s 139bpm",
+        "1x 11m5s 132bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 421,
+          "avg_hr": 131,
+          "max_hr": 145,
+          "avg_cadence": 79.040405,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 393,
+          "avg_hr": 138,
+          "max_hr": 142,
+          "avg_cadence": 79.67175,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 440,
+          "avg_hr": 139,
+          "max_hr": 149,
+          "avg_cadence": 78.4375,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 388,
+          "avg_hr": 137,
+          "max_hr": 142,
+          "avg_cadence": 78.86855,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "532s@139bpm79rpm",
+          "duration_secs": 532,
+          "avg_hr": 139,
+          "max_hr": 144,
+          "avg_cadence": 78.65722,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 394,
+          "avg_hr": 135,
+          "max_hr": 145,
+          "avg_cadence": 80.192894,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 396,
+          "avg_hr": 139,
+          "max_hr": 150,
+          "avg_cadence": 79.22475,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "665s@132bpm77rpm",
+          "duration_secs": 665,
+          "avg_hr": 132,
+          "max_hr": 142,
+          "avg_cadence": 76.945274,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 393,
+          "avg_hr": 138,
+          "max_hr": 146,
+          "avg_cadence": 79.46819,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 405,
+          "avg_hr": 137,
+          "max_hr": 141,
+          "avg_cadence": 76.306175,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 386,
+          "avg_hr": 141,
+          "max_hr": 150,
+          "avg_cadence": 79.53627,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 388,
+          "avg_hr": 143,
+          "max_hr": 148,
+          "avg_cadence": 79.420105,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 385,
+          "avg_hr": 144,
+          "max_hr": 149,
+          "avg_cadence": 80.083115,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 385,
+          "avg_hr": 144,
+          "max_hr": 150,
+          "avg_cadence": 79.968834,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "396s@139bpm79rpm",
+          "duration_secs": 379,
+          "avg_hr": 144,
+          "max_hr": 150,
+          "avg_cadence": 80.424805,
           "zone": 1
         }
       ]
