@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:36:07.661193",
+  "generated_at": "2026-08-16T17:01:36.992996",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -2334,6 +2334,90 @@
           "max_hr": 150,
           "avg_cadence": 80.424805,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i176499044",
+      "date": "2026-08-16",
+      "type": "Ride",
+      "name": "Helmond Wegwielrennen",
+      "interval_summary": [
+        "1x 15m21s 152bpm",
+        "8x 9m4s 158bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "921s@152bpm",
+          "duration_secs": 921,
+          "avg_hr": 152,
+          "max_hr": 161,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 563,
+          "avg_hr": 156,
+          "max_hr": 162,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 530,
+          "avg_hr": 155,
+          "max_hr": 162,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 553,
+          "avg_hr": 159,
+          "max_hr": 166,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 560,
+          "avg_hr": 160,
+          "max_hr": 171,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 534,
+          "avg_hr": 158,
+          "max_hr": 166,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 535,
+          "avg_hr": 160,
+          "max_hr": 167,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 545,
+          "avg_hr": 156,
+          "max_hr": 163,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "544s@158bpm",
+          "duration_secs": 532,
+          "avg_hr": 160,
+          "max_hr": 168,
+          "zone": 3
         }
       ]
     }
