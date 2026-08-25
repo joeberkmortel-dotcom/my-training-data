@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:52:19.047303",
+  "generated_at": "2026-08-25T10:38:30.793882",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -1680,6 +1680,130 @@
           "max_hr": 166,
           "avg_cadence": 80.22472,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i179554568",
+      "date": "2026-08-25",
+      "type": "Ride",
+      "name": "Helmond Wegwielrennen",
+      "interval_summary": [
+        "1x 16m9s 155bpm",
+        "11x 10m17s 152bpm",
+        "1x 3s 153bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "969s@155bpm",
+          "duration_secs": 969,
+          "avg_hr": 155,
+          "max_hr": 164,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 570,
+          "avg_hr": 155,
+          "max_hr": 165,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 537,
+          "avg_hr": 153,
+          "max_hr": 158,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 574,
+          "avg_hr": 153,
+          "max_hr": 160,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 714,
+          "avg_hr": 150,
+          "max_hr": 156,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 153,
+          "max_hr": 153,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 563,
+          "avg_hr": 150,
+          "max_hr": 156,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 759,
+          "avg_hr": 152,
+          "max_hr": 160,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 585,
+          "avg_hr": 153,
+          "max_hr": 159,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 593,
+          "avg_hr": 152,
+          "max_hr": 162,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 631,
+          "avg_hr": 153,
+          "max_hr": 161,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 679,
+          "avg_hr": 149,
+          "max_hr": 161,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "617s@152bpm",
+          "duration_secs": 578,
+          "avg_hr": 154,
+          "max_hr": 163,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "3s@153bpm",
+          "duration_secs": 3,
+          "avg_hr": 153,
+          "max_hr": 153,
+          "zone": 2
         }
       ]
     }
