@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T15:20:57.966308",
+  "generated_at": "2026-08-31T21:00:10.814335",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -1185,6 +1185,244 @@
           "max_hr": 175,
           "avg_cadence": 87.38776,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i181841686",
+      "date": "2026-08-31",
+      "type": "Swim",
+      "name": "Zwembad",
+      "interval_summary": [
+        "1x 250m 114bpm",
+        "2x 250m 147bpm",
+        "1x 14m 119bpm",
+        "1x 12m 138bpm",
+        "1x 48m 153bpm",
+        "1x 50m 142bpm",
+        "1x 100m 149bpm",
+        "1x 200m 150bpm",
+        "1x 25m 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "369s@114bpm22rpm",
+          "duration_secs": 369,
+          "avg_hr": 114,
+          "max_hr": 127,
+          "avg_cadence": 21.734417,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 127,
+          "avg_hr": 111,
+          "max_hr": 114,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "357s@147bpm23rpm",
+          "duration_secs": 348,
+          "avg_hr": 141,
+          "max_hr": 154,
+          "avg_cadence": 23.295977,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 100,
+          "avg_hr": 130,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "357s@147bpm23rpm",
+          "duration_secs": 365,
+          "avg_hr": 152,
+          "max_hr": 162,
+          "avg_cadence": 22.567123,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 188,
+          "avg_hr": 126,
+          "max_hr": 162,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "24s@119bpm10rpm",
+          "duration_secs": 24,
+          "avg_hr": 119,
+          "max_hr": 128,
+          "avg_cadence": 10.083333,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "17s@138bpm11rpm",
+          "duration_secs": 17,
+          "avg_hr": 138,
+          "max_hr": 149,
+          "avg_cadence": 11.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "25s@153bpm22rpm",
+          "duration_secs": 25,
+          "avg_hr": 153,
+          "max_hr": 159,
+          "avg_cadence": 22.08,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 52,
+          "avg_hr": 142,
+          "max_hr": 159,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "67s@142bpm23rpm",
+          "duration_secs": 67,
+          "avg_hr": 142,
+          "max_hr": 150,
+          "avg_cadence": 23.447762,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 58,
+          "avg_hr": 137,
+          "max_hr": 151,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "138s@149bpm23rpm",
+          "duration_secs": 138,
+          "avg_hr": 149,
+          "max_hr": 159,
+          "avg_cadence": 22.731884,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 55,
+          "avg_hr": 147,
+          "max_hr": 158,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "295s@150bpm23rpm",
+          "duration_secs": 295,
+          "avg_hr": 150,
+          "max_hr": 162,
+          "avg_cadence": 23.40678,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 61,
+          "avg_hr": 144,
+          "max_hr": 154,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "33s@140bpm33rpm",
+          "duration_secs": 33,
+          "avg_hr": 140,
+          "max_hr": 154,
+          "avg_cadence": 32.878788,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 10,
+          "avg_hr": 152,
+          "max_hr": 155,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i181778169",
+      "date": "2026-08-31",
+      "type": "Run",
+      "name": "Helmond Hardlopen",
+      "interval_summary": [
+        "6x 6m27s 133bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "387s@133bpm80rpm",
+          "duration_secs": 383,
+          "avg_hr": 131,
+          "max_hr": 141,
+          "avg_cadence": 78.86945,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 133,
+          "max_hr": 133,
+          "avg_cadence": 82.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "387s@133bpm80rpm",
+          "duration_secs": 388,
+          "avg_hr": 133,
+          "max_hr": 139,
+          "avg_cadence": 80.21134,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "387s@133bpm80rpm",
+          "duration_secs": 390,
+          "avg_hr": 134,
+          "max_hr": 144,
+          "avg_cadence": 79.99487,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "387s@133bpm80rpm",
+          "duration_secs": 389,
+          "avg_hr": 134,
+          "max_hr": 142,
+          "avg_cadence": 79.84576,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "387s@133bpm80rpm",
+          "duration_secs": 387,
+          "avg_hr": 134,
+          "max_hr": 143,
+          "avg_cadence": 79.79587,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "387s@133bpm80rpm",
+          "duration_secs": 387,
+          "avg_hr": 132,
+          "max_hr": 138,
+          "avg_cadence": 79.40052,
+          "zone": 1
         }
       ]
     }
