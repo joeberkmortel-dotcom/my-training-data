@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:43:55.896376",
+  "generated_at": "2026-09-03T21:24:21.232997",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -1403,6 +1403,72 @@
           "avg_hr": 144,
           "max_hr": 144,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i182985223",
+      "date": "2026-09-02",
+      "type": "Ride",
+      "name": "Helmond Wegwielrennen",
+      "interval_summary": [
+        "6x 11m8s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "668s@136bpm",
+          "duration_secs": 687,
+          "avg_hr": 134,
+          "max_hr": 146,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 132,
+          "max_hr": 132,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "668s@136bpm",
+          "duration_secs": 656,
+          "avg_hr": 134,
+          "max_hr": 150,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "668s@136bpm",
+          "duration_secs": 631,
+          "avg_hr": 133,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "668s@136bpm",
+          "duration_secs": 625,
+          "avg_hr": 138,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "668s@136bpm",
+          "duration_secs": 657,
+          "avg_hr": 139,
+          "max_hr": 147,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "668s@136bpm",
+          "duration_secs": 749,
+          "avg_hr": 138,
+          "max_hr": 154,
+          "zone": 1
         }
       ]
     }
