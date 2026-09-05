@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:17:40.679507",
+  "generated_at": "2026-09-05T12:57:48.047326",
   "version": "3.112",
   "script_hash": "4a54629923dd",
   "scan_hours": 72,
@@ -1285,6 +1285,53 @@
           "duration_secs": 749,
           "avg_hr": 138,
           "max_hr": 154,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i183550058",
+      "date": "2026-09-05",
+      "type": "Run",
+      "name": "Knokke-Heist Hardlopen",
+      "interval_summary": [
+        "4x 6m22s 141bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "382s@141bpm80rpm",
+          "duration_secs": 389,
+          "avg_hr": 137,
+          "max_hr": 145,
+          "avg_cadence": 78.948586,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@141bpm80rpm",
+          "duration_secs": 386,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 80.25648,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@141bpm80rpm",
+          "duration_secs": 367,
+          "avg_hr": 141,
+          "max_hr": 162,
+          "avg_cadence": 80.47411,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@141bpm80rpm",
+          "duration_secs": 385,
+          "avg_hr": 145,
+          "max_hr": 163,
+          "avg_cadence": 78.42078,
           "zone": 1
         }
       ]
